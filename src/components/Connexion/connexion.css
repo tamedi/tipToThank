@@ -1,0 +1,26 @@
+.connexion-container .background {
+  background-color: #efefef;
+}
+
+.connexion-container .mdp {
+  color: #555;
+  text-decoration: #555;
+}
+
+.text {
+  font-size: 15px;
+  font-weight: lighter;
+  margin-top: 0px;
+}
+.text2 {
+  font-size: 15px;
+  font-weight: lighter;
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+.forgetpwd {
+  font-size: 9px;
+  color: #999;
+  margin-left: -9px;
+  margin-top: -20px;
+}

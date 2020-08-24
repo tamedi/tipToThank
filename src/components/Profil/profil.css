@@ -1,0 +1,54 @@
+body {
+  background-color: #efefef;
+  padding-top: 130px;
+}
+
+.Bloc-principal {
+  background: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  width: 50%;
+  margin-bottom: 30px;
+  border-radius: 12px 9px 12px;
+  border: none;
+  color: #555;
+  border-left: 8px solid #f4a521;
+  box-shadow: 1px 1px 3px #999;
+  padding: 70px;
+  margin-top: 20px;
+}
+.buttontip {
+  margin-top: -90px;
+  margin-left: 170px;
+}
+.Titre {
+  margin-top: -15px;
+}
+.Titre-profil {
+  color: #f4a521;
+  text-align: center;
+  font-size: 18px;
+}
+
+.Bloc-principal .formBasicCheckbox {
+  font-size: initial;
+  color: white;
+}
+.buttondeco {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  height: 35px;
+  width: 50px;
+}
+
+.buttonedit {
+  margin-top: 30px;
+  float: left;
+  height: 50px;
+  width: 50px;
+}
+.buttondelete {
+  margin-top: 30px;
+  float: right;
+  height: 50px;
+  width: 50px;
+}

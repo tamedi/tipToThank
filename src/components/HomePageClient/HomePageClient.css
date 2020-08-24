@@ -1,0 +1,13 @@
+.container {
+  border-left: 8px solid #f4a521;
+}
+
+.connexion-container .Titre {
+  text-align: center;
+  color: #f4a521;
+  font-size: 15px;
+  font-weight: lighter;
+}
+.text-center {
+  margin-top: 40px;
+}

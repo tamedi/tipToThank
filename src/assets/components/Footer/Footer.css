@@ -1,0 +1,17 @@
+.footer {
+  background-color: #f4a521;
+  box-shadow: 8px 5px 20px rgba(255, 255, 255, 0.7);
+  margin-top: 27px;
+}
+.footer .navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+.footer .navbar-light .navbar-nav .nav-link:hover {
+  color: #ffecb3;
+}
+.footer .navbar-light .navbar-brand {
+  color: white;
+}
+.footer .navbar-light .navbar-brand:hover {
+  color: #ffecb3;
+}

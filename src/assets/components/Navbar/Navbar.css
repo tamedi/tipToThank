@@ -1,0 +1,45 @@
+.barre-de-menu {
+  position: fixed;
+  z-index: 10000;
+  top: 0%;
+  left: -1%;
+  right: 0%;
+  padding: 0 20px;
+  box-shadow: 8px 3px 10px rgba(77, 77, 77, 0.589);
+  background-color: #f4a521;
+  justify-content: space-between;
+}
+
+.nav-link {
+  margin-left: 120px;
+}
+.barre-de-menu .logo {
+  height: 45px;
+  display: block;
+}
+
+.barre-de-menu .basic-navbar-nav .navlink {
+  justify-content: right;
+  color: white;
+}
+
+.barre-de-menu .navbar-light .navbar-brand {
+  font-size: 20px;
+  color: white;
+}
+
+.barre-de-menu .navbar {
+  padding: 0 1rem;
+}
+
+.barre-de-menu .link:hover {
+  text-decoration: none;
+  color: #ffecb3;
+}
+.barre-de-menu .link {
+  color: white;
+  margin: 10px;
+}
+.justify-content-end {
+  margin-right: -25px;
+}
